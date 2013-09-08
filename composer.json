@@ -1,0 +1,7 @@
+{
+	"require": {
+		"mpdf/mpdf": "dev-master",
+		"rain/raintpl": "3.0.x",
+		"slim/slim": "2.2.x"
+	}
+}
